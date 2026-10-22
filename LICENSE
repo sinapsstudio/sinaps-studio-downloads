@@ -1,0 +1,37 @@
+# SINAPS STUDIO SOFTWARE LICENSE
+
+Copyright © 2026 **Sinaps Finance LTDA**. All rights reserved.
+
+**Sinaps Studio** is a proprietary software product distributed under the **Sinaps Data** brand.
+
+For purposes of this license, “Sinaps Data” refers to the commercial brand operated by **Sinaps Finance LTDA, CNPJ 58.038.421/0001-91**, including its lawful successors, assignees, and permitted transferees.
+
+Sinaps Studio and all associated software, binaries, interfaces, visual elements, documentation, trademarks, and related materials are proprietary products of **Sinaps Finance LTDA**, its lawful successors or assignees, or their respective rights holders.
+
+In the event of corporate reorganization, dissolution, liquidation, merger, succession, transfer, assignment, or other change affecting Sinaps Finance LTDA, the intellectual property rights related to Sinaps Studio may be transferred to a lawful successor, shareholder, individual, or other legal entity in accordance with applicable law and the relevant assignment, succession, or corporate instruments.
+
+Any such lawful successor or assignee shall be entitled to exercise the rights and permissions attributed to the rights holder under this license.
+
+This repository is provided solely for the official distribution of Sinaps Studio installers, release information, checksums, and related documentation.
+
+Permission is granted to download, install, and use the officially distributed Sinaps Studio software subject to the applicable Sinaps Studio Terms of Use and End User License Agreement (EULA).
+
+Unless expressly authorized in writing by the rights holder, you may not:
+
+- copy, reproduce, redistribute, sell, sublicense, rent, lease, or commercially distribute the Sinaps Studio software or installer;
+- modify, adapt, translate, reverse engineer, decompile, disassemble, or attempt to derive the source code of the software, except where such restriction is prohibited by applicable law;
+- remove or alter copyright, trademark, attribution, or proprietary notices;
+- use the Sinaps Studio or Sinaps Data names, trademarks, logos, or visual identity without authorization;
+- represent modified or unofficial builds as official Sinaps Studio distributions.
+
+No source-code license is granted by this repository.
+
+Third-party software, libraries, models, datasets, connectors, and other components accessible through or bundled with Sinaps Studio remain subject to their respective licenses and terms.
+
+THE SOFTWARE IS PROVIDED “AS IS”, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE RIGHTS HOLDER, ITS SUCCESSORS, OR ASSIGNEES BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE, EXCEPT WHERE SUCH LIMITATION IS PROHIBITED BY LAW.
+
+**Sinaps Studio is a product distributed under the Sinaps Data brand by Sinaps Finance LTDA and, where applicable, its lawful successors or assignees.**
+
+For commercial licensing, partnerships, enterprise use, or other permissions, contact Sinaps Data through its official channels.
